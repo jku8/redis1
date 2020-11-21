@@ -1,5 +1,7 @@
 # redis1
 
+- Old
+
 - Install redis, node, npm
 - redis-server //running
 - npm install //both
